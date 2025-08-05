@@ -3,7 +3,6 @@
 This repository hosts a curated and structured dataset containing comprehensive information about 6,429 U.S. colleges. The main aim of this project was to collect, clean, and organize institutional data to publish a high-quality dataset on [Kaggle](https://www.kaggle.com/). The dataset is ideal for data science, machine learning, and statistical analysis projects related to education in the United States.
 
 ---
-
 ## Repository Contents
 
 * `U.S._College_information_Real_dataset.csv`
